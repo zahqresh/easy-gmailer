@@ -6,8 +6,11 @@
 
 ### npm i easy-gmailer
 
-### var eg = require('easy-gmailer');
-### eg.sendmail();  to send mail
+ "Require the package"
+ var eg = require('easy-gmailer');
+ "To send email"
+ eg.sendmail();
+
 
 
 ### It'll ask sender's email  & password and reciever email,subject & mesaage
