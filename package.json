@@ -1,6 +1,6 @@
 {
   "name": "easy-gmailer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package to send quick easy mails using gmail",
   "main": "index.js",
   "scripts": {
