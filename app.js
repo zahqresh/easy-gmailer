@@ -1,4 +1,2 @@
-var mailer = require('./index.js');
-
-
+var mailer = require("./index.js");
 mailer.sendmail();
